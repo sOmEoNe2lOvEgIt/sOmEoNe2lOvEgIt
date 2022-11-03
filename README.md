@@ -1,7 +1,7 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sOmEoNe2lOvEgIt&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sOmEoNe2lOvEgIt&show_icons=true&theme=transparent)
 
-![my_stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sOmEoNe2lOvEgIt&show_icons=true&count_private=true&theme=midnight-purple)
+![my_stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sOmEoNe2lOvEgIt&show_icons=true&count_private=true&theme=transparent)
 
 
 📫 How to reach me :
