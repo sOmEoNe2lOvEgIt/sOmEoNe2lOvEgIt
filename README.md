@@ -1,6 +1,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sOmEoNe2lOvEgIt&show_icons=true&theme=midnight-purple)
-<p align="center"> <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sOmEoNe2lOvEgIt&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&card_width=500&bg_color=22272e&border_color=444c56" alt="sOmEoNe2lOvEgIt" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sOmEoNe2lOvEgIt&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&card_width=500&bg_color=22272e&border_color=444c56" alt="sOmEoNe2lOvEgIt)
 
 
 📫 How to reach me :
