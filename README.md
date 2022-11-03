@@ -1,7 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sOmEoNe2lOvEgIt&show_icons=true&theme=midnight-purple)
 
-- 📫 How to reach me :
+📫 How to reach me :
   - 🔗 raymcraft@gmail.com
   - 📸 instagram @well_hello_there_0_0
 
