@@ -1,7 +1,5 @@
 
-![My github](https://github-readme-stats.vercel.app/api?username=sOmEoNe2lOvEgIt&show_icons=true&theme=transparent&hide_border=true)
-
-![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sOmEoNe2lOvEgIt&show_icons=true&count_private=true&theme=transparent&hide_border=true&card_width=100%)
+![My github](https://github-readme-stats.vercel.app/api?username=sOmEoNe2lOvEgIt&show_icons=true&theme=transparent&hide_border=true)![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sOmEoNe2lOvEgIt&show_icons=true&count_private=true&theme=transparent&hide_border=true)
 
 
 📫 How to reach me :
