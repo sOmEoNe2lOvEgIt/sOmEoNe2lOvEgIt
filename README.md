@@ -6,7 +6,8 @@
   - 🔗 raymcraft@gmail.com
   - 📸 instagram @well_hello_there_0_0
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sOmEoNe2lOvEgIt)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sOmEoNe2lOvEgIt&show_icons=true&theme=radical)
+
 
 
 <!---
